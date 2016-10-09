@@ -17,7 +17,7 @@
 
 ;; Load all the fun modules
 (require 'custom-general)
-(require 'custom-exwm-config)
+;(require 'custom-exwm-config)
 (require 'custom-editing)
 (require 'custom-speedbar)
 (require 'custom-modes)
@@ -27,7 +27,7 @@
 
 ;; Initialize all the modules loaded above
 (custom-general)
-(custom-exwm-config)
+;(custom-exwm-config)
 (custom-editing)
 (custom-speedbar)
 (custom-modes)

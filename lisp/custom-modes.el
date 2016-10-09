@@ -184,7 +184,7 @@
   (custom-modes-html)
   (custom-modes-less)
   (custom-modes-markdown)
-  (custom-modes-python)
+  ;(custom-modes-python)
   (custom-modes-sass)
   (custom-modes-term)
   (custom-modes-vala)

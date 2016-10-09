@@ -53,7 +53,7 @@
 (depends-on "org-gcal")
 
 ;; Desktop environment
-(depends-on "exwm")
-(depends-on "pinentry")
+;(depends-on "exwm")
+;(depends-on "pinentry")
 (depends-on "screenshot")
 (depends-on "ample-theme")
